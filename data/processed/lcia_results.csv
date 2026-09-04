@@ -1,0 +1,55 @@
+Impact category UUID,Impact category,Reference unit,Result,Technology
+eecb511c-af14-4894-8fdd-b2fe6c95f0d8,Acidification: terrestrial,kg SO2-Eq,0.013374415392480814,Dual-Fuel
+1a536c0b-c82b-4e72-8df6-e5037c95c226,Climate change,kg CO2-Eq,4.67048198435224,Dual-Fuel
+5a39bcae-830a-4380-a764-62f6ea98ebf8,Ecotoxicity: freshwater,"kg 1,4-DCB-Eq",0.194015246099388,Dual-Fuel
+03c598fa-4b8e-4784-a441-d6d9a800dd1d,Ecotoxicity: marine,"kg 1,4-DCB-Eq",0.24860551156169186,Dual-Fuel
+336f3fae-324b-416d-b1be-0f7623c2933b,Ecotoxicity: terrestrial,"kg 1,4-DCB-Eq",4.005506847755259,Dual-Fuel
+db3ab420-df1b-4795-b3d1-6986a3f16f9b,"Energy resources: non-renewable, fossil",kg oil-Eq,0.8830092068171113,Dual-Fuel
+2877d4ef-a819-4392-9532-345a2155a323,Eutrophication: freshwater,kg P-Eq,0.0015846973410224246,Dual-Fuel
+3ecc1c8f-df22-47aa-ad16-6c2044239055,Eutrophication: marine,kg N-Eq,0.00012502844623735475,Dual-Fuel
+bce64d8e-d059-426c-8195-c63ce0704114,Human toxicity: carcinogenic,"kg 1,4-DCB-Eq",0.4427929338723927,Dual-Fuel
+645e37b8-745d-462e-a1ba-13b2ff28b319,Human toxicity: non-carcinogenic,"kg 1,4-DCB-Eq",3.8365124887532867,Dual-Fuel
+f0382ee9-6902-4eb8-9290-50dbeabf08c4,Ionising radiation,kBq Co-60-Eq,0.5513044621281027,Dual-Fuel
+828a9253-0de8-40de-ba0a-a6c3e01bc068,Land use,m2*a crop-Eq,0.06915283584195452,Dual-Fuel
+d0665b81-f547-4879-b20e-f4184531dbf3,Material resources: metals/minerals,kg Cu-Eq,0.03471114289062483,Dual-Fuel
+a369b5b3-2244-45df-b5f0-1dd0da447a2e,Ozone depletion,kg CFC-11-Eq,1.5057519080325012e-06,Dual-Fuel
+e76dba7d-66ae-4bd7-b8dd-f90678b5c763,Particulate matter formation,kg PM2.5-Eq,0.004476376456292825,Dual-Fuel
+7c7056fb-e934-436e-976e-ff75cdba2133,Photochemical oxidant formation: human health,kg NOx-Eq,0.010094686164852398,Dual-Fuel
+bbab8de1-21f1-4652-a9ea-09f1e040b2d2,Photochemical oxidant formation: terrestrial ecosystems,kg NOx-Eq,0.010285477476371593,Dual-Fuel
+a1cd5d2c-a125-4bb1-9898-ce2265356f4b,Water use,m3,0.017598453260392916,Dual-Fuel
+eecb511c-af14-4894-8fdd-b2fe6c95f0d8,Acidification: terrestrial,kg SO2-Eq,0.010966217447002997,Oxy-Enriched
+1a536c0b-c82b-4e72-8df6-e5037c95f0d8,Climate change,kg CO2-Eq,2.8094585246364887,Oxy-Enriched
+5a39bcae-830a-4380-a764-62f6ea98ebf8,Ecotoxicity: freshwater,"kg 1,4-DCB-Eq",0.27936900815219384,Oxy-Enriched
+03c598fa-4b8e-4784-a441-d6d9a800dd1d,Ecotoxicity: marine,"kg 1,4-DCB-Eq",0.3555290208031246,Oxy-Enriched
+336f3fae-324b-416d-b1be-0f7623c2933b,Ecotoxicity: terrestrial,"kg 1,4-DCB-Eq",5.3257186953363265,Oxy-Enriched
+db3ab420-df1b-4795-b3d1-6986a3f16f9b,"Energy resources: non-renewable, fossil",kg oil-Eq,0.5405304468079661,Oxy-Enriched
+2877d4ef-a819-4392-9532-345a2155a323,Eutrophication: freshwater,kg P-Eq,0.0017063401751657328,Oxy-Enriched
+3ecc1c8f-df22-47aa-ad16-6c2044239055,Eutrophication: marine,kg N-Eq,0.00013158549748602688,Oxy-Enriched
+bce64d8e-d059-426c-8195-c63ce0704114,Human toxicity: carcinogenic,"kg 1,4-DCB-Eq",0.41323411370022517,Oxy-Enriched
+645e37b8-745d-462e-a1ba-13b2ff28b319,Human toxicity: non-carcinogenic,"kg 1,4-DCB-Eq",4.321083637461846,Oxy-Enriched
+f0382ee9-6902-4eb8-9290-50dbeabf08c4,Ionising radiation,kBq Co-60-Eq,1.026940404752629,Oxy-Enriched
+828a9253-0de8-40de-ba0a-a6c3e01bc068,Land use,m2*a crop-Eq,0.07008696900866088,Oxy-Enriched
+d0665b81-f547-4879-b20e-f4184531dbf3,Material resources: metals/minerals,kg Cu-Eq,0.03128248348462468,Oxy-Enriched
+a369b5b3-2244-45df-b5f0-1dd0da447a2e,Ozone depletion,kg CFC-11-Eq,8.700216680457705e-07,Oxy-Enriched
+e76dba7d-66ae-4bd7-b8dd-f90678b5c763,Particulate matter formation,kg PM2.5-Eq,0.004101564121640331,Oxy-Enriched
+7c7056fb-e934-436e-976e-ff75cdba2133,Photochemical oxidant formation: human health,kg NOx-Eq,0.004987539586542758,Oxy-Enriched
+bbab8de1-21f1-4652-a9ea-09f1e040b2d2,Photochemical oxidant formation: terrestrial ecosystems,kg NOx-Eq,0.005126470979128471,Oxy-Enriched
+a1cd5d2c-a125-4bb1-9898-ce2265356f4b,Water use,m3,0.028307111465189654,Oxy-Enriched
+eecb511c-af14-4894-8fdd-b2fe6c95f0d8,Acidification: terrestrial,kg SO2-Eq,0.0249982211127008,SFR
+1a536c0b-c82b-4e72-8df6-e5037c95f0d8,Climate change,kg CO2-Eq,7.417577988135726,SFR
+5a39bcae-830a-4380-a764-62f6ea98ebf8,Ecotoxicity: freshwater,"kg 1,4-DCB-Eq",0.4240073838020373,SFR
+03c598fa-4b8e-4784-a441-d6d9a800dd1d,Ecotoxicity: marine,"kg 1,4-DCB-Eq",0.5555111690025928,SFR
+336f3fae-324b-416d-b1be-0f7623c2933b,Ecotoxicity: terrestrial,"kg 1,4-DCB-Eq",7.3180404939807415,SFR
+db3ab420-df1b-4795-b3d1-6986a3f16f9b,"Energy resources: non-renewable, fossil",kg oil-Eq,0.8825036100370813,SFR
+2877d4ef-a819-4392-9532-345a2155a323,Eutrophication: freshwater,kg P-Eq,0.0024039848512499924,SFR
+3ecc1c8f-df22-47aa-ad16-6c2044239055,Eutrophication: marine,kg N-Eq,0.00021568700139572132,SFR
+bce64d8e-d059-426c-8195-c63ce0704114,Human toxicity: carcinogenic,"kg 1,4-DCB-Eq",1.063245808119836,SFR
+645e37b8-745d-462e-a1ba-13b2ff28b319,Human toxicity: non-carcinogenic,"kg 1,4-DCB-Eq",7.435891187934988,SFR
+f0382ee9-6902-4eb8-9290-50dbeabf08c4,Ionising radiation,kBq Co-60-Eq,1.244559506099468,SFR
+828a9253-0de8-40de-ba0a-a6c3e01bc068,Land use,m2*a crop-Eq,0.10087629046090706,SFR
+d0665b81-f547-4879-b20e-f4184531dbf3,Material resources: metals/minerals,kg Cu-Eq,0.09216650327183704,SFR
+a369b5b3-2244-45df-b5f0-1dd0da447a2e,Ozone depletion,kg CFC-11-Eq,1.2424632050987757e-06,SFR
+e76dba7d-66ae-4bd7-b8dd-f90678b5c763,Particulate matter formation,kg PM2.5-Eq,0.008744860027139317,SFR
+7c7056fb-e934-436e-976e-ff75cdba2133,Photochemical oxidant formation: human health,kg NOx-Eq,0.011192395667253352,SFR
+bbab8de1-21f1-4652-a9ea-09f1e040b2d2,Photochemical oxidant formation: terrestrial ecosystems,kg NOx-Eq,0.011463473201819696,SFR
+a1cd5d2c-a125-4bb1-9898-ce2265356f4b,Water use,m3,0.047214724908628686,SFR
