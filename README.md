@@ -4,6 +4,12 @@ An interactive decision-support application integrating **Life Cycle Assessment 
 
 **Live application:** https://lca-tea-dashboard-gpvtupivz4yiwzvv9zn2f.streamlit.app
 
+## Dashboard preview
+
+![LCA–TEA decision robustness dashboard](docs/dashboard-robustness.png)
+
+The dashboard moves beyond a single deterministic ranking by showing how technology preference changes across environmental–economic decision weights under uncertainty.
+
 ## Project overview
 
 The dashboard demonstrates how environmental and economic evidence can be combined when comparing alternative technology pathways under uncertainty. The case study evaluates three low-calorific landfill-gas utilisation pathways:
@@ -108,6 +114,9 @@ data/processed/
   hotspots.csv
   tea_summary.csv
   tea_cashflows.csv
+
+docs/
+  dashboard-robustness.png
 
 .streamlit/
   config.toml
